@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sys_class_name" table="cmdb_ci_computer" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <name>cmdb_ci_computer</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:06</sys_created_on>
+            <sys_id>e903b92f87e70110ad23eb173cbb355a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_class_name</sys_name>
+            <sys_package display_value="Itom_test" source="fe52f5eb87e70110ad23eb173cbb35a0">fe52f5eb87e70110ad23eb173cbb35a0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Itom_test">fe52f5eb87e70110ad23eb173cbb35a0</sys_scope>
+            <sys_update_name>sys_choice_cmdb_ci_computer_sys_class_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:06</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A10 Load Balancer</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a103b92f87e70110ad23eb173cbb355a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:06</sys_updated_on>
+            <value>cmdb_ci_lb_a10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ACE</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e903b92f87e70110ad23eb173cbb3564</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:06</sys_updated_on>
+            <value>cmdb_ci_lb_ace</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AIX Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d03b92f87e70110ad23eb173cbb356e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:06</sys_updated_on>
+            <value>cmdb_ci_aix_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Alteon</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d03b92f87e70110ad23eb173cbb3578</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:06</sys_updated_on>
+            <value>cmdb_ci_lb_alteon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIM Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad03b92f87e70110ad23eb173cbb3582</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:06</sys_updated_on>
+            <value>cmdb_ci_cim_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cisco CSM</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed03b92f87e70110ad23eb173cbb358c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:06</sys_updated_on>
+            <value>cmdb_ci_lb_cisco_csm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cisco CSS</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2103b92f87e70110ad23eb173cbb3597</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:06</sys_updated_on>
+            <value>cmdb_ci_lb_cisco_css</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cisco GSS</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6103b92f87e70110ad23eb173cbb35a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:06</sys_updated_on>
+            <value>cmdb_ci_lb_cisco_gss</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cisco UCS Blade</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a103b92f87e70110ad23eb173cbb35ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:06</sys_updated_on>
+            <value>cmdb_ci_ucs_blade</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cisco UCS Rack Mount Unit</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e103b92f87e70110ad23eb173cbb35b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:06</sys_updated_on>
+            <value>cmdb_ci_ucs_rack_unit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Citrix Netscaler</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2503b92f87e70110ad23eb173cbb35bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:06</sys_updated_on>
+            <value>cmdb_ci_lb_netscaler</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cloud Host</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6503b92f87e70110ad23eb173cbb35c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:06</sys_updated_on>
+            <value>cmdb_ci_cloud_host</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Computer</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a503b92f87e70110ad23eb173cbb35d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:06</sys_updated_on>
+            <value>cmdb_ci_computer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Power Hosting Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>13</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e503b92f87e70110ad23eb173cbb35dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_datapower_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ESX Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>14</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3903b92f87e70110ad23eb173cbb35e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_esx_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>F5 BIG-IP</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>15</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7903b92f87e70110ad23eb173cbb35f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_lb_bigip</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>F5 BigIP GTM</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>16</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b903b92f87e70110ad23eb173cbb35fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_lb_f5_gtm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>F5 BigIP LTM</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>17</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f903f92f87e70110ad23eb173cbb3505</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_lb_f5_ltm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HPUX Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>18</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d03f92f87e70110ad23eb173cbb350f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_hpux_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hyper-V Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>19</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d03f92f87e70110ad23eb173cbb3519</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_hyper_v_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IBM Mainframe</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd03f92f87e70110ad23eb173cbb3523</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_mainframe</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IBM Mainframe LPAR</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>21</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd03f92f87e70110ad23eb173cbb352d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_mainframe_lpar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IBM zOS server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>22</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3103f92f87e70110ad23eb173cbb3538</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_ibm_zos_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ISA Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>23</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7103f92f87e70110ad23eb173cbb3542</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_lb_isa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ISAM Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>24</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b103f92f87e70110ad23eb173cbb354c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_isam_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Linux Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>25</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f103f92f87e70110ad23eb173cbb3556</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_linux_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Load Balancer</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>26</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3503f92f87e70110ad23eb173cbb3560</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_lb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mainframe Hardware</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>27</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7503f92f87e70110ad23eb173cbb356a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_mainframe_hardware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Netware Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>28</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b503f92f87e70110ad23eb173cbb3574</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_netware_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Network Appliance Hardware</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>29</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f503f92f87e70110ad23eb173cbb357e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_net_app_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Network Load Balancer</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3903f92f87e70110ad23eb173cbb3588</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_lb_network</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OS/X Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>31</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7903f92f87e70110ad23eb173cbb3592</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_osx_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Personal Computer</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>32</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b903f92f87e70110ad23eb173cbb359c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_pc_hardware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Radware Load Balancer</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>33</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f903f92f87e70110ad23eb173cbb35a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_lb_radware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>34</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d03f92f87e70110ad23eb173cbb35b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Server Chassis</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>35</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d03f92f87e70110ad23eb173cbb35ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_chassis_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Server Hardware</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>36</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd03f92f87e70110ad23eb173cbb35c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_server_hardware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Server Tape Unit</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>37</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd03f92f87e70110ad23eb173cbb35ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_tape_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Solaris Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>38</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3103f92f87e70110ad23eb173cbb35d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:07</sys_updated_on>
+            <value>cmdb_ci_solaris_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Storage Node Element</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>39</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7103f92f87e70110ad23eb173cbb35e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:08</sys_updated_on>
+            <value>cmdb_ci_storage_node_element</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Storage Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b103f92f87e70110ad23eb173cbb35ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:08</sys_updated_on>
+            <value>cmdb_ci_storage_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Storage Switch</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>41</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c203f92f87e70110ad23eb173cbb35f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:08</sys_updated_on>
+            <value>cmdb_ci_storage_switch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UNIX Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>42</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06033d2f87e70110ad23eb173cbb3501</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:08</sys_updated_on>
+            <value>cmdb_ci_unix_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Virtualization Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>43</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46033d2f87e70110ad23eb173cbb350b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:08</sys_updated_on>
+            <value>cmdb_ci_virtualization_server</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VMware vCenter Server Object</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>44</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86033d2f87e70110ad23eb173cbb3515</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:08</sys_updated_on>
+            <value>cmdb_ci_vcenter_server_obj</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Windows Server</label>
+            <language>en</language>
+            <name>cmdb_ci_computer</name>
+            <sequence>45</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 00:44:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6033d2f87e70110ad23eb173cbb351f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 00:44:08</sys_updated_on>
+            <value>cmdb_ci_win_server</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
